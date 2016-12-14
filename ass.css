@@ -3,7 +3,10 @@
   height: 250;
   
 }
-
+.content{
+ margin:45px;
+ padding:65px;
+}
 .jumbotron{
 
   background-color:black;
