@@ -11,16 +11,22 @@
 body{
   background-color:lightgrey;
 }
-.jumbotron{
+.content2{
 
   background-color:black;
   
   margin: 100px;
 }
-.jumbotron, img,h2{
+.content2, img,h2{
  vertical-align:middle;
  text-align:center;
  color:white;
+}
+@media screen and (max-width:500px){
+  .content2{
+    margin:auto;
+    width:100%;
+  }
 }
 #HCB_comment_box{
   margin:100px;
