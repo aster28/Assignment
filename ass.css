@@ -1,4 +1,4 @@
- left-
+, left-
 .container{
   background-color:black;
   height: 200px;
@@ -23,7 +23,7 @@ body{
  color:white;
 }
 @media screen and (max-width:500px){
-  .content2 img{
+  .content2, img{
     margin:auto;
     width:100%;
   }
